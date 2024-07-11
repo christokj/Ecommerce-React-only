@@ -1,0 +1,32 @@
+[
+  {
+    "image": "https://i.pinimg.com/736x/08/16/15/081615c30f30318974ce916da17b88e3.jpg",
+    "alt": "boat logo",
+    "head": "Starting ₹149 | Headphones",
+    "id": "1"
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeWXCIE8VuGYJbPXETSFuFWWn0Lxzp09fREg&s",
+    "alt": "home appliances logo",
+    "head": "Appliances for your home | Up to 55% off",
+    "id": "2"
+  },
+  {
+    "image": "https://img.freepik.com/premium-vector/home-furniture-logo-design-with-lamp-drawer-shelf-flower-chair-concept-2_691652-149.jpg",
+    "alt": "home furniture logo",
+    "head": "Up to 70% off | Bestsellers from Indian artisans",
+    "id": "3"
+  },
+  {
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/011/822/241/small_2x/car-abstract-logo-design-concept-auto-service-icon-with-wrench-car-repair-and-auto-parts-theme-vector.jpg",
+    "alt": "Automotive essentials logo",
+    "head": "Automotive essentials | Up to 60% off",
+    "id": "4"
+  },
+  {
+    "image": "https://marketplace.canva.com/EAFCbKLQ_LE/1/0/1600w/canva-white-black-minimalist-fashion-store-logo-FBKZMKJ8Vpw.jpg",
+    "alt": "fashion logo",
+    "head": "Under ₹499 | Pocket-friendly fashion",
+    "id": "5"
+  }
+]
